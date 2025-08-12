@@ -10,7 +10,7 @@ Params:
   description: "Rashmi's Personal blog about everything" # Description of your site
   copyright: "Rashmi 2025" 
   opengraph: true
-  toc: true
+  toc: false 
   twitter_cards: true
   readmore: true # Show "Read more" button in list if true
   authorbox: true
