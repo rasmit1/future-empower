@@ -8,7 +8,7 @@ Params:
     bio: "True Genius"
     avatar: "img/avatar.png"
   description: "Rashmi's Personal blog about everything" # Description of your site
-  copyright: "Rashmi 2025" 
+  copyright: "Rashmi Mittal" 
   opengraph: true
   toc: false 
   twitter_cards: true
@@ -35,6 +35,5 @@ Params:
     tags_counter: false # Enable counter for each tag in "Tags" widget (disabled by default)
     social:
       cache: false
-      facebook: "username"
-      linkedin: "username"
-      email: "example@example.com"
+      linkedin: "rashmimml"
+      email: ""
