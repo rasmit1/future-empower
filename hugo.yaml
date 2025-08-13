@@ -1,6 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: Future Empowered
+googleAnalytics: "G-QWNDBJ9L2F"
 theme: mainroad
 Params:
   author:
