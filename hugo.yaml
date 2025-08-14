@@ -3,15 +3,22 @@ languageCode: en-us
 title: Future Empowered
 googleAnalytics: "G-QWNDBJ9L2F"
 theme: mainroad
+services:
+  disqus:
+    shortname: www-futureempowered-com
+  googleAnalytics:
+    id: "G-QWNDBJ9L2F" 
 Params:
-  author:
+  Author:
     name: "Rashmi Mittal"
-    bio: "True Genius"
-    avatar: "img/avatar.png"
+    bio: "Rashmi is a leader in business transformation"
+    avatar: "images/RM1.jpeg"
   description: "Rashmi's Personal blog about everything" # Description of your site
   copyright: "Rashmi Mittal" 
+  comments: true
   footer_credits: ""
   opengraph: true
+  paginate: "2"
   subtitle: "Enabled today empowered for tomorrow"
   toc: false 
   twitter_cards: true
@@ -34,7 +41,7 @@ Params:
     list: "right"   # Configure layout for list pages
     single: "right" # Configure layout for single pages
 #    widgets: [ "search", "recent", "categories", "taglist", "social"]
-    widgets: [  "recent", "categories", "taglist", "social"]
+    widgets: [  "sidemenu", "categories", "taglist", "social" ]
   widgets:
     recent_num: 5 # Set the number of articles in the "Recent articles" widget
     tags_counter: false # Enable counter for each tag in "Tags" widget (disabled by default)

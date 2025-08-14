@@ -9,7 +9,7 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 54
-menu: false
+menu: side
 categories: ["Organization Science","People Art", "Business Strategy" ]
 ---
 

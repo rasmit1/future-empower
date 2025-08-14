@@ -5,11 +5,11 @@ lead: As the plans for AI enablement in new year 2025 are being discussed within
 date: 2024-12-15T00:00:00.000Z
 tags:
   - "Transformation"
-authorbox: false
+authorbox: true
 sidebar: false
 pager: false
 weight: 110
-menu: false
+menu: side
 categories: ["Futuristic Transformation"]
 ---
 

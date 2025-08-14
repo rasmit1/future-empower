@@ -9,7 +9,7 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 50
-menu: false
+menu: side
 categories: ["People Art"]
 ---
 ![alt](/images/ai_dimension.jpeg)
