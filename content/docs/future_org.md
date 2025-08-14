@@ -9,7 +9,7 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 55
-menu: main
+menu: false
 categories: ["Organization Science"]
 ---
 

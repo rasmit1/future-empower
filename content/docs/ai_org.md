@@ -9,7 +9,7 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 110
-menu: main
+menu: false
 categories: ["Futuristic Transformation"]
 ---
 
