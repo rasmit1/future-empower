@@ -16,7 +16,7 @@ With extensive experience in the financial industry, I have successfully develop
 organizations. I am particularly adept at driving stalled projects forward.
 
 
-### Service Offerings
+### Area of Specialization
 
 + Futuristic Transformation
   - AI/Digital Transformation Framework and Tools
