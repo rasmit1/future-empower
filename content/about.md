@@ -18,25 +18,32 @@ organizations. I am particularly adept at driving stalled projects forward.
 
 ### Service Offerings
 
-+ AI/Digital Transformation Framework and Tools
++ Futuristic Transformation
+  - AI/Digital Transformation Framework and Tools
   - Specializes in emerging technologies and artificial intelligence (AI).
   - Provides a comprehensive framework for AI transformation.
 
-+ Business Strategy for AI and Digital Products
++ Business Strategy
+  - Business Strategy for AI and Digital Products
   - Develops strategic plans for AI and digital product development.
   - Analyzes market trends and customer needs to identify opportunities.
   - Identifies suitable business cases for AI
 
-+ AI and Digital Product Management
++ Futuristic Product Management
+  - AI and Digital Product Management
   - Implements effective product management processes.
   - Ensures the timely delivery of high-quality products.
 
-+ Futuristic Product Model
-  - Designs innovative product models that align with emerging technologies.
-  - Identifies potential disruptions and proactively addresses them.
 
-+ Organizational Structure and Design
++ Organization Science
+  - Organizational Structure and Design
   - Structures organizations to support AI initiatives.
   - Aligns organizational structures with the business strategy.
   - Defines Domains, teams and roles.
+  - Designs innovative product models that align with emerging technologies.
+  - Identifies potential disruptions and proactively addresses them.
 
++ People Art
+  - Upskilling 
+  - Training
+  - Enablement

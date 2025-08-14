@@ -4,12 +4,13 @@ description: Building a Future Ready Organization
 lead: Setting up an organization for success and sustainability is on every leader's mind. It all depends on how you approach
 date: 2025-03-15T00:00:00.000Z
 tags:
-  - "Organization"
+  - "Transformation"
 authorbox: false
 sidebar: false
 pager: false
 weight: 55
 menu: main
+categories: ["Organization Science"]
 ---
 
 Setting up an organization for success and sustainability is on every leader's mind. It all depends on how you approach the new. Is it better to play catch up with every new technology or become an organization that is strong and ready to tackle disruptions and innovations? If you like the idea of being a future ready organization then try to answer these questions and see where you stand today:

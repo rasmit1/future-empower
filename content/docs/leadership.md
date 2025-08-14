@@ -10,6 +10,7 @@ sidebar: false
 pager: false
 weight: 54
 menu: main
+categories: ["Organization Science","People Art", "Business Strategy" ]
 ---
 
 Organizations are currently facing the challenges that come with AI adoption and its effects on traditional workforce. Leaders need to pay attention to employee engagement and productivity. Here are my 5 tips to keep your AI transformation on path to success.
