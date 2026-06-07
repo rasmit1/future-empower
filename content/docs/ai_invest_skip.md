@@ -1,33 +1,32 @@
 ---
 title: "The AI Investment Strategy"
 date: 2026-01-06
-description: "Most organisations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance."
-Lead: "MML Most organisations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance." 
+description: "Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance."
+Lead: "Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance." 
 tags: ["AI Transformation", "AI Strategy", "AI Governance", "Digital Transformation", "Financial Services"]
 authorbox: true
 sidebar: false
 pager: false
 weight: 110
 menu: side
-categories: ["Futuristic Transformation"]
+categories: ["Futuristic Transformation","Business Strategy"]
 ---
 
-
-> "AI tools don't create value. Organisations that are ready to use them do."
+> "AI tools don't create value. Organizations that are ready to use them do."
 
 The biggest AI fear today? Justifying the investment. Yes — fear. Whether you acknowledge it or not.
 
-Every organisation is investing in AI. Tools are bought. Pilots are running. Vendors are contracted. And somewhere in every boardroom, every leadership team, every programme office — there's a quiet anxiety nobody is saying out loud. *Are we going to be able to justify this?*
+Every organization is investing in AI. Tools are bought. Pilots are running. Vendors are contracted. And somewhere in every boardroom, every leadership team, every program office — there's a quiet anxiety nobody is saying out loud. *Are we going to be able to justify this?*
 
 Let's be honest. We know there's prep work that absolutely needs to happen to make AI successful. The operating model needs to be ready. The people need to understand it. The governance needs to enable it rather than block it.
 
-But are organisations actually doing that prep work? From what I've seen — most are not. And I'll still give credit to the ones doing it as an afterthought. Why? Because there's no way around it. They'll get there. They're just getting there the hard way.
+But are organizations actually doing that prep work? From what I've seen — most are not. And I'll still give credit to the ones doing it as an afterthought. Why? Because there's no way around it. They'll get there. They're just getting there the hard way.
 
 Here's the good news. It doesn't have to be that hard.
 
 ---
 
-## The mistake most organisations make
+## The mistake most organizations make
 
 Thinking this requires a massive upfront investment — a grand transformation before a single AI system gets deployed. If you're making that mistake, stop. Read this. Think.
 
@@ -41,11 +40,11 @@ You don't need all of it on day one. What you need is a short term solution and 
 
 **01 — Select a value-driving use case. Keep it low risk.**
 
-Don't try to solve everything at once. Pick the one where the value is clearest and the stakes are manageable. This is your proof of concept — not just for the technology but for your organisation's ability to absorb it.
+Don't try to solve everything at once. Pick the one where the value is clearest and the stakes are manageable. This is your proof of concept — not just for the technology but for your organization's ability to absorb it.
 
 **02 — Identify only the data you need for that use case.**
 
-Not all your data. Not a data transformation programme. Just what this specific deployment requires. Your data will never be perfectly clean. Your systems will never be fully modern. Don't wait for either. Start with what you have.
+Not all your data. Not a data transformation program. Just what this specific deployment requires. Your data will never be perfectly clean. Your systems will never be fully modern. Don't wait for either. Start with what you have.
 
 **03 — Involve your control partners from day one.**
 
@@ -71,23 +70,23 @@ Every decision — the data model, the governance framework, the team structure,
 
 ## What this looks like in practice
 
-I worked with an organisation where the entire AI product pipeline was blocked. Not because the technology wasn't working. Because nobody had defined what risk level different AI systems operated at. Everything went through the same review process regardless of whether it was a low-risk internal tool or a customer-facing decision system touching millions of people.
+I worked with an organization where the entire AI product pipeline was blocked. Not because the technology wasn't working. Because nobody had defined what risk level different AI systems operated at. Everything went through the same review process regardless of whether it was a low-risk internal tool or a customer-facing decision system touching millions of people.
 
 The fix wasn't more technology. It was a risk classification framework — high, medium, low — with proportional governance requirements at each level. We onboarded 400 people across product, engineering, risk, and compliance. The pipeline unblocked. Launches that had been stuck for months started moving.
 
-The technology hadn't changed. The organisation's readiness to use it had.
+The technology hadn't changed. The organization's readiness to use it had.
 
 ---
 
 ## The honest reality
 
-Your data will never be perfectly clean. Your systems will never be fully modern. The organisations winning at AI aren't waiting for either. They're building with what they have — proportionally, deliberately, one use case at a time.
+Your data will never be perfectly clean. Your systems will never be fully modern. The organizations winning at AI aren't waiting for either. They're building with what they have — proportionally, deliberately, one use case at a time.
 
 **The technology will follow. Readiness has to come first.**
 
 Before your next AI investment ask yourself three questions:
 
-1. Is our organisation ready to absorb this?
+1. Is our organization ready to absorb this?
 2. Do our people know how to work with it?
 3. Do we have governance that can move fast enough to let us deploy it safely?
 
@@ -105,12 +104,12 @@ More on the long term plan in the next article. Come back with your questions. �
 
 2. Identify one AI use case that is currently **stuck**. Is it stuck because of technology — or because of process, governance, or people readiness? Name the real blocker.
 
-3. Take your highest risk AI deployment. Can anyone in your organisation answer **"what risk tier is this?"** in under five minutes? If not — that's your first governance fix.
+3. Take your highest risk AI deployment. Can anyone in your organization answer **"what risk tier is this?"** in under five minutes? If not — that's your first governance fix.
 
 4. Schedule one conversation with your risk or compliance partner this week. Not to report to them. **To include them.** That one conversation starts the shift from governance as a gate to governance as a collaborator.
 
 ---
 
-*Rashmi Mittal is an AI Transformation & Product Leader with 15+ years in financial services. He helps organisations move AI from pilot to production — unblocking the technical, business, and human barriers that stop AI programmes from scaling. Follow for weekly insights on AI transformation, governance, and what actually works in the real world. 🌐 [futureempowered.com](https://futureempowered.com)*
+*Rashmi Mittal is an AI Transformation & Product Leader with 15+ years in financial services. He helps organizations move AI from pilot to production — unblocking the technical, business, and human barriers that stop AI programs from scaling. Follow for weekly insights on AI transformation, governance, and what actually works in the real world. 🌐 [futureempowered.com](https://futureempowered.com)*
 
 `#AITransformation #AIStrategy #DigitalTransformation #AIGovernance #ProductLeadership #FinancialServices #FutureReady #PilotToProduction #FutureEmpowered`
