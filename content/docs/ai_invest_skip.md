@@ -2,11 +2,8 @@
 title: "The AI Investment Most Organisations Are Skipping — And Why It's Costing Them Everything"
 date: 2026-01-06
 description: "Most organisations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance."
-author: "Rashmi Mittal"
+Lead: "Most organisations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance." 
 tags: ["AI Transformation", "AI Strategy", "AI Governance", "Digital Transformation", "Financial Services"]
-series: "AI Transformation Series"
-series_ord:wqer: 1
-draft: false
 authorbox: true
 sidebar: false
 pager: false
