@@ -5,9 +5,16 @@ description: "Most organisations are investing in AI but not seeing the returns 
 author: "Rashmi Mittal"
 tags: ["AI Transformation", "AI Strategy", "AI Governance", "Digital Transformation", "Financial Services"]
 series: "AI Transformation Series"
-series_order: 1
+series_ord:wqer: 1
 draft: false
+authorbox: true
+sidebar: false
+pager: false
+weight: 110
+menu: side
+categories: ["Futuristic Transformation"]
 ---
+
 
 > "AI tools don't create value. Organisations that are ready to use them do."
 
