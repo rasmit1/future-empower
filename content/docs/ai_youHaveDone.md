@@ -1,7 +1,7 @@
 ---
-title: "You've Done This Before. You Just Didn't Call It AI Transformation."
-date: 2026-01-13
-description: "The challenges showing up in AI programmes today are the same ones you've navigated before. Your experience is more relevant than you think."
+title: "New flavor same recipe AI transformation."
+date: 2026-06-07
+description: "The challenges showing up in AI programs today are the same ones you've navigated before. Your experience is more relevant than you think."
 tags: ["AI Transformation", "Change Management", "Digital Transformation", "Leadership", "AI Adoption"]
 series_order: 2
 authorbox: true
@@ -16,7 +16,7 @@ categories: ["Futuristic Transformation","Organization Science"]
 
 If you've ever led a transformation — any transformation — you already know more about AI adoption than you think.
 
-Agile transformation. Digital transformation. Operating model redesign. New technology adoption. Culture change programms.
+Agile transformation. Digital transformation. Operating model redesign. New technology adoption. Culture change programs.
 
 Every single one felt new at the time. Every single one came with the same promise — this will change everything. And every single one ran into the same walls.
 
