@@ -1,6 +1,6 @@
 ---
 title: "The AI Model Diagnostic Framework"
-date: 2026-02-03
+date: 2026-06-09
 description: "A reusable three-layer diagnostic tool for identifying why AI models give wrong answers — before you retrain, rebuild, or spend a dollar on a fix that solves the wrong problem."
 tags: ["AI Diagnostics", "5 Whys", "Design Thinking", "Model Performance", "AI Governance", "Enterprise AI"]
 type: "framework"
