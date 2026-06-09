@@ -11,7 +11,7 @@ services:
 Params:
   Author:
     name: "Rashmi Mittal"
-    bio: "Rashmi is a leader in business transformation"
+    bio: "AI Transformation & Product Leader with 15+ years in financial services. Helping organizations move AI from pilot to production — unblocking the technical, business, and human barriers that stop AI programs from scaling."
     avatar: "images/RM1.jpeg"
   description: "Rashmi's Personal blog about everything" # Description of your site
   copyright: "Rashmi Mittal" 
