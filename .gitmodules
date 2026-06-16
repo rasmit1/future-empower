@@ -1,3 +1,4 @@
-ini[submodule "themes/PaperMod"]
+ini
+[submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com
