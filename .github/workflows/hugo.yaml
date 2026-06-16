@@ -51,8 +51,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          #submodules: recursive
           fetch-depth: 0
+          clean: true       # <--- THIS FORCES GIT TO WIPE THE CACHE
+          submodules: false # <--- THIS STOPS SUBMODULE ERRORS COMPLETELY
+           
       - name: Force Download PaperMod Theme
         run: |
          mkdir -p themes
