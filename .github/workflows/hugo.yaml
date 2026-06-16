@@ -58,6 +58,7 @@ jobs:
            
       - name: Force Download PaperMod Theme
         run: |
+         rm -rf themes/PaperMod   # <--- THIS REMOVES THE GHOST DATA
          mkdir -p themes
          git clone --depth=1 https://github.com themes/PaperMod
       - name: Setup Pages
