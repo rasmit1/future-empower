@@ -53,6 +53,10 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Force Download PaperMod Theme
+        run: |
+         mkdir -p themes
+         git clone --depth=1 https://github.com themes/PaperMod
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
